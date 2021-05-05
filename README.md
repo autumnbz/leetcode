@@ -1,5 +1,12 @@
 # leetcode
 let's start leetcode.
+#面试题
+校招面试分享
+https://leetcode-cn.com/circle/discuss/t7l1s2/
+操作系统题
+https://leetcode-cn.com/circle/discuss/zIxrWn/
+tcp网络
+https://leetcode-cn.com/circle/discuss/aqTOW4/
 
 # Blog
 Dreamgoing https://dreamgoing.github.io/
