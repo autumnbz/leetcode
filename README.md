@@ -9,6 +9,8 @@ https://dreamgoing.github.io/epoll.html
 linux网络编程之带你了解epoll的本质
 https://zhuanlan.zhihu.com/p/366365883
 
+https://zhuanlan.zhihu.com/p/369170592
+
 # Netty
 深入理解Reactor 网络编程模型 https://zhuanlan.zhihu.com/p/93612337
 Reactor模式 https://dreamgoing.github.io/reactor.html
