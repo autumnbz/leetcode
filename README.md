@@ -21,3 +21,7 @@ Java Hotspot G1 GC的一些关键技术
 https://tech.meituan.com/2016/09/23/g1.html
 新一代垃圾回收器ZGC的探索与实践
 https://zhuanlan.zhihu.com/p/170572432
+
+# 分布式
+分布式事务一致性与raft或paxos协议
+https://www.zhihu.com/question/275845393
