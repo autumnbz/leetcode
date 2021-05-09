@@ -42,3 +42,6 @@ https://zhuanlan.zhihu.com/p/170572432
 # 分布式
 分布式事务一致性与raft或paxos协议
 https://www.zhihu.com/question/275845393
+
+# Hystrix
+[为什么需要 Hystrix?](https://mp.weixin.qq.com/s/Lkj0T1xpBj7DImYcGlz0Bg)
