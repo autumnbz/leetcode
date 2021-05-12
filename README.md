@@ -16,17 +16,15 @@ let's start leetcode.
 # Blog
 Dreamgoing https://dreamgoing.github.io/
 # Linux
-Epoll 
-https://dreamgoing.github.io/epoll.html
-linux网络编程之带你了解epoll的本质
-https://zhuanlan.zhihu.com/p/366365883
-
-https://zhuanlan.zhihu.com/p/369170592
+[Epoll](https://dreamgoing.github.io/epoll.html)
+[linux网络编程之带你了解epoll的本质](https://zhuanlan.zhihu.com/p/366365883)
+[select、poll、epoll之间的区别](https://www.cnblogs.com/aspirant/p/9166944.html)
+[TCP/IP协议栈，epoll的内部实现原理](https://zhuanlan.zhihu.com/p/369170592)
 
 # Netty
-深入理解Reactor 网络编程模型 https://zhuanlan.zhihu.com/p/93612337
-Reactor模式 https://dreamgoing.github.io/reactor.html
-Redis-Reator源码剖析 https://dreamgoing.github.io/redis-reactor%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90.html
+[深入理解Reactor 网络编程模型]( https://zhuanlan.zhihu.com/p/93612337)
+[Reactor模式](https://dreamgoing.github.io/reactor.html)
+[Redis-Reator源码剖析](https://dreamgoing.github.io/redis-reactor%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90.html)
 
 # RPC
 
