@@ -7,6 +7,10 @@ let's start leetcode.
 
 [tcp网络](https://leetcode-cn.com/circle/discuss/aqTOW4/)
 
+[浅谈偏向锁、轻量级锁、重量级锁](https://www.jianshu.com/p/36eedeb3f912)
+
+[线程池](面试官一个线程池问题把我问懵逼了。)
+
 
 # Java基础
 [1.5w字，30图带你彻底掌握](https://mp.weixin.qq.com/s/iNz6sTen2CSOdLE0j7qu9A)
