@@ -46,6 +46,8 @@ Dreamgoing https://dreamgoing.github.io/
 
 [新一代垃圾回收器ZGC的探索与实践](https://zhuanlan.zhihu.com/p/170572432)
 
+[《大厂面试》之JVM篇连环21问](https://zhuanlan.zhihu.com/p/360914855)
+
 
 # 分布式
 [分布式事务一致性与raft或paxos协议](https://www.zhihu.com/question/275845393)
