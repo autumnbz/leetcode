@@ -59,3 +59,6 @@ Dreamgoing https://dreamgoing.github.io/
 # 大数据
 [Lindorm数据优化](https://blog.51cto.com/u_15060465/2675088)
 [离线数据查询加速的挑战与Lindorm应对之策](https://developer.aliyun.com/article/782253)
+
+# 博客系列
+[吊打面试官系列](https://my.oschina.net/javaFamily?tab=newest&catalogId=6720370)
