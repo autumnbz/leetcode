@@ -55,3 +55,6 @@ Dreamgoing https://dreamgoing.github.io/
 
 # Hystrix
 [为什么需要 Hystrix?](https://mp.weixin.qq.com/s/Lkj0T1xpBj7DImYcGlz0Bg)
+
+# 大数据
+[Lindorm数据优化](https://blog.51cto.com/u_15060465/2675088)
