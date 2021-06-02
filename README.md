@@ -54,9 +54,9 @@ let's start leetcode.
 [为什么需要 Hystrix?](https://mp.weixin.qq.com/s/Lkj0T1xpBj7DImYcGlz0Bg)
 
 # 大数据
-[Lindorm数据优化](https://blog.51cto.com/u_15060465/2675088)
+* [Lindorm数据优化](https://blog.51cto.com/u_15060465/2675088)
+* [离线数据查询加速的挑战与Lindorm应对之策](https://developer.aliyun.com/article/782253)
 
-[离线数据查询加速的挑战与Lindorm应对之策](https://developer.aliyun.com/article/782253)
 
 # 博客系列
 * [吊打面试官系列](https://my.oschina.net/javaFamily?tab=newest&catalogId=6720370)
