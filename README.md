@@ -10,6 +10,7 @@ let's start leetcode.
 [浅谈偏向锁、轻量级锁、重量级锁](https://www.jianshu.com/p/36eedeb3f912)
 
 [线程池](面试官一个线程池问题把我问懵逼了。)
+[arthas使用介绍](https://www.cnblogs.com/qiaoyihang/p/10533672.html)
 
 
 # Java基础
@@ -62,3 +63,5 @@ Dreamgoing https://dreamgoing.github.io/
 
 # 博客系列
 [吊打面试官系列](https://my.oschina.net/javaFamily?tab=newest&catalogId=6720370)
+[hollis-11](https://www.zhihu.com/people/hollis-11)
+
