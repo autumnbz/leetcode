@@ -1,16 +1,12 @@
 # leetcode
 let's start leetcode.
 #面试题
-[校招面试分享](https://leetcode-cn.com/circle/discuss/t7l1s2/)
-
-[操作系统题](https://leetcode-cn.com/circle/discuss/zIxrWn/)
-
-[tcp网络](https://leetcode-cn.com/circle/discuss/aqTOW4/)
-
-[浅谈偏向锁、轻量级锁、重量级锁](https://www.jianshu.com/p/36eedeb3f912)
-
-[线程池](面试官一个线程池问题把我问懵逼了。)
-[arthas使用介绍](https://www.cnblogs.com/qiaoyihang/p/10533672.html)
+## [校招面试分享](https://leetcode-cn.com/circle/discuss/t7l1s2/)
+## [操作系统题](https://leetcode-cn.com/circle/discuss/zIxrWn/)
+## [tcp网络](https://leetcode-cn.com/circle/discuss/aqTOW4/)
+## [浅谈偏向锁、轻量级锁、重量级锁](https://www.jianshu.com/p/36eedeb3f912)
+## [线程池](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484214&idx=1&sn=9b5c977e0f8329b2bf4c29d230c678fb&chksm=ebd74237dca0cb212f4505935f9905858b9166beddd4603c3d3b5386b5dd8cf240c460a8e7c4&scene=21###wechat_redirect)
+## [arthas使用介绍](https://www.cnblogs.com/qiaoyihang/p/10533672.html)
 
 
 # Java基础
