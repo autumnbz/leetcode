@@ -36,6 +36,7 @@ let's start leetcode.
 [Redis-Reator源码剖析](https://dreamgoing.github.io/redis-reactor%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90.html)
 
 # RPC
+* [17 个必问 Dubbo 面试题](https://mp.weixin.qq.com/s/gJ4L2o8fAXnTTxBdyxMJWA)
 
 # jvm
 [从实际案例聊聊Java应用的GC优化](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651747273&idx=1&sn=7f947064a41eeecb6816a5d0838581ae&chksm=bd12aa848a65239289d5c39264e89bd175f377f6554bfe93b37ad6498cf13deff356333c5398&scene=21#wechat_redirect)
@@ -53,6 +54,9 @@ let's start leetcode.
 
 # Hystrix
 [为什么需要 Hystrix?](https://mp.weixin.qq.com/s/Lkj0T1xpBj7DImYcGlz0Bg)
+
+# 缓存
+* [多级缓存设计方案](https://xie.infoq.cn/article/8b2e00206eab6adae2de51a29)
 
 # 大数据
 * [Lindorm数据优化](https://blog.51cto.com/u_15060465/2675088)
