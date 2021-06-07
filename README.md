@@ -13,6 +13,7 @@ let's start leetcode.
 * [1.5w字，30图带你彻底掌握](https://mp.weixin.qq.com/s/iNz6sTen2CSOdLE0j7qu9A)
 * [我就知道面试官接下来要问我ConcurrentHashMap 底层原理了](https://mp.weixin.qq.com/s/My4P_BBXDnAGX1gh630ZKw)
 * [java基础知识16问](https://mp.weixin.qq.com/s/-xFSHf7Gz3FUcafTJUIGWQ)
+* [java8新特性](https://blog.csdn.net/l1028386804/article/details/115547910)
 
 # 数据库
 * [数据库内核包括](http://mysql.taobao.org/monthly/)
