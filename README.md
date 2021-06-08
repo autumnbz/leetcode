@@ -51,6 +51,7 @@ let's start leetcode.
 # 计算机网络
 * [面试题详解 - 网址访问过程详解](https://leetcode-cn.com/circle/discuss/UrcaDQ/)
 * [面试问题详解 - TCP](https://leetcode-cn.com/circle/discuss/aqTOW4/)
+* [从输入 URL 到页面加载完成的过程中都发生了什么事情？](http://fex.baidu.com/blog/2014/05/what-happen/)
 
 # 操作系统
 * [操作系统常见问题-leetcode](https://leetcode-cn.com/circle/discuss/zIxrWn/)
