@@ -48,6 +48,12 @@ let's start leetcode.
 
 [《大厂面试》之JVM篇连环21问](https://zhuanlan.zhihu.com/p/360914855)
 
+# 计算机网络
+* [面试题详解 - 网址访问过程详解](https://leetcode-cn.com/circle/discuss/UrcaDQ/)
+* [面试问题详解 - TCP](https://leetcode-cn.com/circle/discuss/aqTOW4/)
+
+# 操作系统
+* [操作系统常见问题-leetcode](https://leetcode-cn.com/circle/discuss/zIxrWn/)
 
 # 分布式
 [分布式事务一致性与raft或paxos协议](https://www.zhihu.com/question/275845393)
